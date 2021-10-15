@@ -35,7 +35,7 @@
 // | SHFT |     |     |     |     |     |   |     |     |     |     |     |      |
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
-   &kp ESC    &bt BT_CLR     &kp N7       &kp N8       &kp N9       &bp BT_SEL 0        &kp CARET     &kp AMPS   &kp STAR   &kp LPAR    &kp RPAR   &kp LS(MINUS)
+   &kp ESC    &bt BT_CLR     &kp N7       &kp N8       &kp N9       &bt BT_SEL 0        &kp CARET     &kp AMPS   &kp STAR   &kp LPAR    &kp RPAR   &kp LS(MINUS)
    &bt BT_CLR &kp AT         &kp N4       &kp N5       &kp N6       &kp N0              &bt BT_SEL 1  &kp LEFT   &kp DOWN   &kp RIGHT   &kp SEMI   &kp END
    &kp LCTRL  &kp NON_US_BSLH&kp N1       &kp N2       &kp N3       &kp ENTER           &bt BT_SEL 2  &trans     &kp RA(N7) &kp RA(N0)  &trans     &kp ENTER
                           	              &kp RALT     &trans       &kp LSHFT           &kp SPACE     &trans     &kp LGUI
